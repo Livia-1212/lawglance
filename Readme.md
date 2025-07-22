@@ -17,6 +17,15 @@
 
 > 🛡️ **Mission:** “Justice should be accessible to everyone. LawGlance ensures that no one is left behind when it comes to legal knowledge.”
 
+---
+
+## 🌏 What’s New: Chinese Law Support 🇨🇳
+
+We now support **Chinese law** alongside Indian legal documents. Users can:
+- Ask legal questions in **Mandarin Chinese or English**.
+- Retrieve answers based on **embedded Chinese legal documents**, such as civil and administrative codes.
+- Explore cross-jurisdictional perspectives in a multilingual setting.
+
 This project is developed with support from mentors and experts at [Data Science Academy](https://datascience.one/) and [Curvelogics](https://www.curvelogics.com/). 💼
 
 ---
@@ -35,16 +44,23 @@ LawGlance currently supports the following laws, with plans to expand internatio
 - 👧 **The Protection of Children from Sexual Offences Act (POCSO), 2012**
 - **The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013**
 
+**Chinese Legal Content**:
+- 🇨🇳 **Chinese Civil Code** (民法典) — *newly added!*
+- More to come…
+
+
 
 Originally launched as [Niyam SahaAI](https://github.com/niyam-sahaai/niyam-sahaai), **LawGlance** aims to cover legal systems from different countries in the near future.
 
+Originally launched as [Niyam SahaAI](https://github.com/niyam-sahaai/niyam-sahaai), LawGlance now serves as a global platform for multilingual legal AI assistance.
+
 ---
 
-## 🎥 **Video Tutorial**
+## 🎥 Video Tutorial
 
-Curious how **LawGlance** works? Watch this detailed tutorial!
+📽️ [Watch the Demo on Loom](https://www.loom.com/share/dcc6b14c653c4618829f46a9aa2ab68c?sid=00d0d3c1-9d4b-4cf7-8684-cdee76718bd5)  
+🧠 [Learn how RAG powers LawGlance](https://www.youtube.com/watch?v=sWpLEApQtvE)
 
-[![Niyam SahaAI Tutorial](https://raw.githubusercontent.com/lawglance/lawglance/refs/heads/main/docs/Lawglance_youtube_video_thumbnail.png)](https://www.youtube.com/watch?v=sWpLEApQtvE "Niyam SahaAI Tutorial")
 
 <div>
     <a href="https://www.loom.com/embed/dcc6b14c653c4618829f46a9aa2ab68c?sid=a5a73b89-88a5-4bc2-a633-f97792f6441f">
@@ -65,7 +81,7 @@ Curious how **LawGlance** works? Watch this detailed tutorial!
 
 Ready to get started? Follow these simple steps to set up **LawGlance** on your machine:
 
-1. **Clone the Repository** 🌀
+1. **Clone the Original Repository** 🌀
     ```bash
     git clone https://github.com/lawglance/lawglance.git
     ```
