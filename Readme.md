@@ -28,7 +28,7 @@ We now support **Chinese law** alongside Indian legal documents. Users can:
 - Retrieve answers based on **embedded Chinese legal documents**, such as civil and administrative codes.
 - Explore cross-jurisdictional perspectives in a multilingual setting.
 
-This update is integrated as a personal project by [Livia Li] (https://github.com/Livia-1212).
+This update is integrated as a personal project by [Livia Li](https://github.com/Livia-1212).
 
 
 ---
