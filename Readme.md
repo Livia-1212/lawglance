@@ -17,6 +17,8 @@
 
 > 🛡️ **Mission:** “Justice should be accessible to everyone. LawGlance ensures that no one is left behind when it comes to legal knowledge.”
 
+This project is developed with support from mentors and experts at [Data Science Academy](https://datascience.one/) and [Curvelogics](https://www.curvelogics.com/). 💼
+
 ---
 
 ## 🌏 What’s New: Chinese Law Support 🇨🇳
@@ -26,7 +28,8 @@ We now support **Chinese law** alongside Indian legal documents. Users can:
 - Retrieve answers based on **embedded Chinese legal documents**, such as civil and administrative codes.
 - Explore cross-jurisdictional perspectives in a multilingual setting.
 
-This project is developed with support from mentors and experts at [Data Science Academy](https://datascience.one/) and [Curvelogics](https://www.curvelogics.com/). 💼
+This update is integrated as a personal project by [Livia Li] (https://github.com/Livia-1212).
+
 
 ---
 
@@ -45,14 +48,12 @@ LawGlance currently supports the following laws, with plans to expand internatio
 - **The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013**
 
 **Chinese Legal Content**:
-- 🇨🇳 **Chinese Civil Code** (民法典) — *newly added!*
+- 🇨🇳 **Chinese Civil Code** (民法典) — *newly added and still under testing...*
 - More to come…
 
 
 
 Originally launched as [Niyam SahaAI](https://github.com/niyam-sahaai/niyam-sahaai), **LawGlance** aims to cover legal systems from different countries in the near future.
-
-Originally launched as [Niyam SahaAI](https://github.com/niyam-sahaai/niyam-sahaai), LawGlance now serves as a global platform for multilingual legal AI assistance.
 
 ---
 
